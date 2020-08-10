@@ -1,1 +1,1 @@
-# Supervised-Machine-Learning-Linear-Regression
+# Internship tasks
